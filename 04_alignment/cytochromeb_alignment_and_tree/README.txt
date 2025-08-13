@@ -1,0 +1,2 @@
+The cytochrome b sequences were extracted from the aligned consensus mitogenomes using a local BLAST database. These extracted sequences were cobined into a FASTA format and that was the input for this script.
+The script uses MUSCLE to align the combined .fasta files and then iqtree2 to generate a maximum likelihood phylogeny .treefile.

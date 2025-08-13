@@ -1,0 +1,9 @@
+ASK_15335_mito_sorted_depth.txt 197.48
+FN_1560_mito_sorted_depth.txt 416.549
+FN_2395_mito_sorted_depth.txt 3267.65
+FN_2976_mito_sorted_depth.txt 277.568
+FN_2980_mito_sorted_depth.txt 513.287
+FN_2989_mito_sorted_depth.txt 959.748
+FN_3258_mito_sorted_depth.txt 142.671
+MSB_274024_mito_sorted_depth.txt 1046.18
+NK_305240_mito_sorted_depth.txt 534.814
